@@ -1,0 +1,15 @@
+client:
+  ssl:
+    one-way-authentication-enabled: false
+    two-way-authentication-enabled: true
+    key-store: classpath:identity.jks
+    key-password: secret
+    key-store-password: secret
+    trust-store: classpath:truststore.jks
+    trust-store-password: secret
+
+trust-store: classpath:Swish_TLS_RootCA.p12   #badssl-com.p12
+trust-store-password: changeit
+key-store: classpath:Swish_Merchant_TestCertificate_1234679304.p12   #badssl-com.p12
+key-store-password: swish
+key-password: swish

@@ -1,0 +1,1 @@
+https://link.tink.com/1.0/transactions/connect-accounts?client_id=ec7ed1b7ab5b4537a1b6b00828055d73&state=333&redirect_uri=http://localhost:8080/callback&authorization_code=bdeb2bc5316d45a89fcbe19d8a68dd3c&market=SE&locale=en_US
